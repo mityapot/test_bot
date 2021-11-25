@@ -1,0 +1,6 @@
+USER = 'test_usr'
+PWD = 'test'
+HOST = '80.211.114.86'
+PORT = 27017
+DB = 'test'
+TOKEN='2120269620:AAGsRi384EjbpLwBjqp1hWLsADp8KRpKDYM'
